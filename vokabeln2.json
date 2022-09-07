@@ -1,0 +1,996 @@
+{
+  "description": "",
+  "words": [
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to hurry up"
+          ],
+          "b": [
+            "sich beeilen"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "different"
+          ],
+          "b": [
+            "verschieden",
+            "anders"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "before school"
+          ],
+          "b": [
+            "vor der Schule (vor Schulbeginn)"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "before lessons"
+          ],
+          "b": [
+            "vorm Unterricht"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "her best friend"
+          ],
+          "b": [
+            "ihr bester Freund",
+            "ihre beste Freundin"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "they are _"
+          ],
+          "b": [
+            "sie sind _"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "their first day"
+          ],
+          "b": [
+            "ihr erster Tag"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "uniform"
+          ],
+          "b": [
+            "(Schul-)Uniform"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to know"
+          ],
+          "b": [
+            "wissen",
+            "kennen"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "student"
+          ],
+          "b": [
+            "Schüler",
+            "Schülerin",
+            "Student",
+            "Studentin"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "he is not _",
+            "he isn't _"
+          ],
+          "b": [
+            "er ist nicht _",
+            "er ist keine _",
+            "er ist kein _"
+          ]
+        },
+        {
+          "a": [
+            "she is not _",
+            "she isn't _"
+          ],
+          "b": [
+            "sie ist nicht _",
+            "sie ist keine _",
+            "sie ist kein _"
+          ]
+        },
+        {
+          "a": [
+            "it is not _",
+            "it isn't _"
+          ],
+          "b": [
+            "es ist nicht _",
+            "es ist keine _",
+            "es ist kein _"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "there"
+          ],
+          "b": [
+            "da",
+            "dort",
+            "dahin",
+            "dorthin"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "mother"
+          ],
+          "b": [
+            "Mutter"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "dad"
+          ],
+          "b": [
+            "Papa",
+            "Vati"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "father"
+          ],
+          "b": [
+            "Vater"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "navy"
+          ],
+          "b": [
+            "Marine"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "dark"
+          ],
+          "b": [
+            "dunkel"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 1,
+      "variants": [
+        {
+          "a": [
+            "Have a go."
+          ],
+          "b": [
+            "Versuch's mal."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 1,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to wait for"
+          ],
+          "b": [
+            "warten auf"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "See you."
+          ],
+          "b": [
+            "Bis gleich.",
+            "Bis bald."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "So?"
+          ],
+          "b": [
+            "Und?",
+            "Na und?"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "at school"
+          ],
+          "b": [
+            "in der Schule"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "Bye."
+          ],
+          "b": [
+            "Tschüs."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "Nice to meet you."
+          ],
+          "b": [
+            "Freut mich Sie kennenzulernen.",
+            "Freut mich dich kennenzulernen.",
+            "Freut mich euch kennenzulernen."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to have"
+          ],
+          "b": [
+            "haben"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "without"
+          ],
+          "b": [
+            "ohne"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "trainer"
+          ],
+          "b": [
+            "Turnschuh"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to wear"
+          ],
+          "b": [
+            "tragen (Kleidung)"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "Sorry",
+            "I'm sorry"
+          ],
+          "b": [
+            "Tut mir leid",
+            "Entschuldigung"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "sister"
+          ],
+          "b": [
+            "Schwester"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "British"
+          ],
+          "b": [
+            "britisch"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "Watch out!"
+          ],
+          "b": [
+            "Pass auf!",
+            "Vorsicht!"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "the first day"
+          ],
+          "b": [
+            "der erste Tag"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "with"
+          ],
+          "b": [
+            "mit"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "Thank you."
+          ],
+          "b": [
+            "Danke."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "Don't go."
+          ],
+          "b": [
+            "Geh nicht."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "sad"
+          ],
+          "b": [
+            "traurig"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "his mum"
+          ],
+          "b": [
+            "seine Mama"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "I don't like green."
+          ],
+          "b": [
+            "Ich mag Grün nicht.",
+            "Ich mag kein Grün."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "friendly"
+          ],
+          "b": [
+            "freundlich"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "shoe"
+          ],
+          "b": [
+            "Schuh"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "mum"
+          ],
+          "b": [
+            "Mama",
+            "Mutti"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "What time is it?"
+          ],
+          "b": [
+            "Wie spät ist es?"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to forget"
+          ],
+          "b": [
+            "vergessen"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "time"
+          ],
+          "b": [
+            "Zeit",
+            "Uhrzeit"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "flat"
+          ],
+          "b": [
+            "Wohnung"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "brother"
+          ],
+          "b": [
+            "Bruder"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "home"
+          ],
+          "b": [
+            "Heim",
+            "Zuhause"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "profile"
+          ],
+          "b": [
+            "Profil; Beschreibung, Porträt"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "ok": 1,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "You're late."
+          ],
+          "b": [
+            "Du bist spät dran.",
+            "Du bist zu spät."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "ok": 1,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "you are not _",
+            "you aren't _"
+          ],
+          "b": [
+            "du bist keine _",
+            "ihr seid keine _",
+            "du bist kein _",
+            "ihr seid kein _",
+            "du bist nicht _",
+            "ihr seid nicht _"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "ok": 1,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "on the way to _"
+          ],
+          "b": [
+            "auf dem Weg zu _",
+            "auf dem Weg nach _"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "ok": 1,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "library"
+          ],
+          "b": [
+            "Bibliothek",
+            "Bücherei"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "ok": 1,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "minute"
+          ],
+          "b": [
+            "Minute"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "ok": 2,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "nice"
+          ],
+          "b": [
+            "nett",
+            "schön"
+          ]
+        }
+      ]
+    }
+  ]
+}

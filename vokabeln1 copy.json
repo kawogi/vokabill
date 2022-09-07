@@ -1,0 +1,1160 @@
+{
+  "description": "",
+  "words": [
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "zoo"
+          ],
+          "b": [
+            "Zoo"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "bear"
+          ],
+          "b": [
+            "Bär"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "elephant"
+          ],
+          "b": [
+            "Elefant"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "giraffe"
+          ],
+          "b": [
+            "Giraffe"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "lion"
+          ],
+          "b": [
+            "Löwe"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "monkey"
+          ],
+          "b": [
+            "Affe"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "pig"
+          ],
+          "b": [
+            "Schwein"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "snake"
+          ],
+          "b": [
+            "Schlange"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "whale"
+          ],
+          "b": [
+            "Wal"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "good"
+          ],
+          "b": [
+            "gut"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "pet"
+          ],
+          "b": [
+            "Haustier"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "ant"
+          ],
+          "b": [
+            "Ameise"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "bird"
+          ],
+          "b": [
+            "Vogel"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "butterfly"
+          ],
+          "b": [
+            "Schmetterling"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "cat"
+          ],
+          "b": [
+            "Katze"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "dog"
+          ],
+          "b": [
+            "Hund"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "frog"
+          ],
+          "b": [
+            "Frosch"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "guinea pig"
+          ],
+          "b": [
+            "Meerschweinchen"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "horse"
+          ],
+          "b": [
+            "Pferd"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "rabbit"
+          ],
+          "b": [
+            "Kaninchen"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "rat"
+          ],
+          "b": [
+            "Ratte"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "an elephant"
+          ],
+          "b": [
+            "ein Elefant"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to think"
+          ],
+          "b": [
+            "denken",
+            "glauben"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "or"
+          ],
+          "b": [
+            "oder"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "but"
+          ],
+          "b": [
+            "aber"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "_ isn't a good pet"
+          ],
+          "b": [
+            "_ ist kein gutes Haustier"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "strange"
+          ],
+          "b": [
+            "seltsam",
+            "komisch"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "game"
+          ],
+          "b": [
+            "Spiel"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to say"
+          ],
+          "b": [
+            "sagen"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "new"
+          ],
+          "b": [
+            "neu"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "class"
+          ],
+          "b": [
+            "(Schul-)Klasse"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "Let me show you _."
+          ],
+          "b": [
+            "Lass mich dir _ zeigen."
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "me"
+          ],
+          "b": [
+            "mich",
+            "mir"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to show"
+          ],
+          "b": [
+            "zeigen"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "our"
+          ],
+          "b": [
+            "unsere",
+            "unser"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "classroom"
+          ],
+          "b": [
+            "Klassenzimmer"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "board"
+          ],
+          "b": [
+            "Tafel"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "cupboard"
+          ],
+          "b": [
+            "Schrank"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "chair"
+          ],
+          "b": [
+            "Stuhl"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "clock"
+          ],
+          "b": [
+            "(Wand-,Stand-,Turm-)Uhr"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "watch"
+          ],
+          "b": [
+            "Armbanduhr"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "door"
+          ],
+          "b": [
+            "Tür"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "desk"
+          ],
+          "b": [
+            "Schreibtisch"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "window"
+          ],
+          "b": [
+            "Fenster"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "this is _"
+          ],
+          "b": [
+            "dies ist _",
+            "das ist _"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to come"
+          ],
+          "b": [
+            "kommen"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "English"
+          ],
+          "b": [
+            "Englisch",
+            "englisch"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "lesson"
+          ],
+          "b": [
+            "(Unterrichts-)Stunde"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "school bag"
+          ],
+          "b": [
+            "Schultasche"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "book"
+          ],
+          "b": [
+            "Buch"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "exercise book"
+          ],
+          "b": [
+            "Schulheft",
+            "Übungsheft"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "ruler"
+          ],
+          "b": [
+            "Lineal"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "pen"
+          ],
+          "b": [
+            "Kugelschreiber",
+            "Stift",
+            "Füller"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "pencil"
+          ],
+          "b": [
+            "Bleistift"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "pencil case"
+          ],
+          "b": [
+            "Federmäppchen"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "glue stick"
+          ],
+          "b": [
+            "Klebestift"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "glue"
+          ],
+          "b": [
+            "Klebstoff"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "rubber"
+          ],
+          "b": [
+            "Radiergummi"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "sharpener"
+          ],
+          "b": [
+            "Anspitzer"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "now"
+          ],
+          "b": [
+            "nun",
+            "jetzt"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "Simon says _"
+          ],
+          "b": [
+            "Simon sagt _"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to put"
+          ],
+          "b": [
+            "legen",
+            "stellen",
+            "(etwas wohin) tun"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to talk"
+          ],
+          "b": [
+            "reden (mit)",
+            "sich unterhalten (mit)"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "teacher"
+          ],
+          "b": [
+            "Lehrer",
+            "Lehrerin"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to open"
+          ],
+          "b": [
+            "öffnen",
+            "aufmachen"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to touch"
+          ],
+          "b": [
+            "berühren",
+            "anfassen"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "ok": 0,
+      "warn": 0,
+      "minor": 0,
+      "fail": 0,
+      "variants": [
+        {
+          "a": [
+            "to give"
+          ],
+          "b": [
+            "geben"
+          ]
+        }
+      ]
+    }
+  ]
+}
